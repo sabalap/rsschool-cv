@@ -7,3 +7,4 @@ const test = "Hello";
 console.log(test);
 Experience: Github Link https://github.com/sabalap
 Education: Business and Technology University (2018-present)
+English level: B2 
