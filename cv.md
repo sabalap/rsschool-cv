@@ -6,3 +6,4 @@ Code example:
 const test = "Hello";
 console.log(test);
 Experience: Github Link https://github.com/sabalap
+Education: Business and Technology University (2018-present)
